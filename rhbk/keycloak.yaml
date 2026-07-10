@@ -20,7 +20,7 @@ spec:
   #http:
   #  tlsSecret: rhbk-tls-secret
   hostname:
-    hostname: rhbk.apps.cluster-wjvhz.dynamic.redhatworkshops.io
+    hostname: rhbk.apps.rosa.rosa-qfqg2.ybzo.p3.openshiftapps.com
   proxy:
     headers: xforwarded # double check your reverse proxy sets and overwrites the X-Forwarded-* headers
   additionalOptions:

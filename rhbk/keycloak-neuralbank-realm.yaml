@@ -24,11 +24,11 @@ spec:
       publicClient: false
       standardFlowEnabled: true
       directAccessGrantsEnabled: true
-      rootUrl: "https://neuralbank.apps.cluster-wjvhz.dynamic.redhatworkshops.io"
+      rootUrl: "https://neuralbank.apps.rosa.rosa-qfqg2.ybzo.p3.openshiftapps.com"
       redirectUris:
-        - "https://neuralbank.apps.cluster-wjvhz.dynamic.redhatworkshops.io/*"
+        - "https://neuralbank.apps.rosa.rosa-qfqg2.ybzo.p3.openshiftapps.com/*"
         - >-
-          https://neuralbank.apps.cluster-wjvhz.dynamic.redhatworkshops.io/auth/callback
+          https://neuralbank.apps.rosa.rosa-qfqg2.ybzo.p3.openshiftapps.com/auth/callback
       webOrigins: ["*"]
       attributes:
         pkce.code.challenge.method: S256
@@ -43,9 +43,9 @@ spec:
       standardFlowEnabled: true
       directAccessGrantsEnabled: true
       redirectUris:
-        - "https://neuralbank.apps.cluster-wjvhz.dynamic.redhatworkshops.io/*"
+        - "https://neuralbank.apps.rosa.rosa-qfqg2.ybzo.p3.openshiftapps.com/*"
         - >-
-          https://neuralbank.apps.cluster-wjvhz.dynamic.redhatworkshops.io/auth/callback
+          https://neuralbank.apps.rosa.rosa-qfqg2.ybzo.p3.openshiftapps.com/auth/callback
       webOrigins: ["*"]
 
     # 2. Grupos y Roles

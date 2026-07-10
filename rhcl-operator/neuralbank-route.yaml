@@ -36,7 +36,7 @@ spec:
     - name: neuralbank-gateway
       namespace: neuralbank-stack
   hostnames:
-    - "neuralbank.apps.cluster-wjvhz.dynamic.redhatworkshops.io"
+    - "neuralbank.apps.rosa.rosa-qfqg2.ybzo.p3.openshiftapps.com"
   rules:
     - matches:
         - path:

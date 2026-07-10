@@ -71,7 +71,7 @@ spec:
     spec:
       project: default
       source:
-        repoURL: 'https://github.com/maximilianoPizarro/connectivity-link.git'
+        repoURL: 'https://github.com/Jnowakoski15/connectivity-link.git'
         targetRevision: main
         path: '{{.path}}'
       destination:
@@ -146,7 +146,7 @@ spec:
     spec:
       project: default
       source:
-        repoURL: 'https://github.com/maximilianoPizarro/connectivity-link.git'
+        repoURL: 'https://github.com/Jnowakoski15/connectivity-link.git'
         targetRevision: main
         path: '{{.path}}'
       destination:
@@ -198,7 +198,7 @@ spec:
     spec:
       project: default
       source:
-        repoURL: 'https://github.com/maximilianoPizarro/connectivity-link.git'
+        repoURL: 'https://github.com/Jnowakoski15/connectivity-link.git'
         targetRevision: main
         path: '{{.path}}'
         directory:
@@ -237,7 +237,7 @@ spec:
     spec:
       project: default
       source:
-        repoURL: 'https://github.com/maximilianoPizarro/connectivity-link.git'
+        repoURL: 'https://github.com/Jnowakoski15/connectivity-link.git'
         targetRevision: main
         helm:
           valueFiles:
@@ -279,7 +279,7 @@ spec:
     spec:
       project: default
       source:
-        repoURL: 'https://github.com/maximilianoPizarro/connectivity-link.git'
+        repoURL: 'https://github.com/Jnowakoski15/connectivity-link.git'
         targetRevision: main
         helm:
           valueFiles:
@@ -319,7 +319,7 @@ spec:
     spec:
       project: default
       source:
-        repoURL: 'https://github.com/maximilianoPizarro/connectivity-link.git'
+        repoURL: 'https://github.com/Jnowakoski15/connectivity-link.git'
         targetRevision: main
         path: '{{.path}}'
       destination:
